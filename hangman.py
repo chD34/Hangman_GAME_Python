@@ -1,7 +1,6 @@
 # Problem Set 2, hangman.py
 # Name: Chernetska Dayana
 # Collaborators: None
-# Time spent: +- 6 hours
 
 # Hangman Game
 # -----------------------------------
