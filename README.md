@@ -4,4 +4,4 @@ Hangman is a classic game where one player(program) thinks of a word(choose word
 
 and the other player(user) tries to guess it by suggesting letters within a limited number of attempts.
 
-File to run: 
+File to run: hangman.py
